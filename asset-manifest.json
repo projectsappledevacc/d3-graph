@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/d3-graph/static/css/main.5dd1dc1e.css",
+    "main.js": "/d3-graph/static/js/main.b817267a.js",
+    "index.html": "/d3-graph/index.html",
+    "main.5dd1dc1e.css.map": "/d3-graph/static/css/main.5dd1dc1e.css.map",
+    "main.b817267a.js.map": "/d3-graph/static/js/main.b817267a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dd1dc1e.css",
+    "static/js/main.b817267a.js"
+  ]
+}
